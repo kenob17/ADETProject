@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Acer\source\repos\ADETFinals\ADETFinals\obj\Debug\net6.0-windows\
+C:\Users\Acer\Source\Repos\ADETProject\obj\Debug\net6.0-windows\
 ADETFinals
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Acer\source\repos\ADETFinals\ADETFinals\App.xaml
+C:\Users\Acer\Source\Repos\ADETProject\App.xaml
 11407045341
 
 3-1233169557
 194-97651837
 MainWindow.xaml;
 
-False
+True
 
