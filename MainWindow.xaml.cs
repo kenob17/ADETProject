@@ -34,4 +34,5 @@ namespace ADETFinals
     //COMMENT
     // KANTUTAN
     //daksdaksdaks
+    // BAGO
 }
