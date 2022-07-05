@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
+C:\Users\FAsad\Source\Repos\ADETProject\obj\Release\net6.0-windows\
+=======
 C:\Users\Acer\Source\Repos\ADETProject\obj\Release\net6.0-windows\
+>>>>>>> 88e2c803440295212ce84302b4452c39ca9bdde3
 ADETFinals
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
+C:\Users\FAsad\Source\Repos\ADETProject\App.xaml
+11407045341
+
+3-1233169557
+1942030480316
+=======
 C:\Users\Acer\Source\Repos\ADETProject\App.xaml
 11407045341
 
 3-1233169557
 194-97651837
+>>>>>>> 88e2c803440295212ce84302b4452c39ca9bdde3
 MainWindow.xaml;
 
 True
